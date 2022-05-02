@@ -38,7 +38,7 @@
       "minHeight": 200,
       "fullScreen": false,
       "alwaysOnTop": false,
-      "icon": "/resources/icons/appIcon.png",
+      "icon": "/public/icons/favicon.png",
       "enableInspector": true,
       "borderless": false,
       "maximize": true,
@@ -55,7 +55,7 @@
       ]
     },
     "cloud": {
-      "url": "/resources/#cloud",
+      "url": "/public/#cloud",
       "nativeAllowList": [
         "app.*"
       ]
