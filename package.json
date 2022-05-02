@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "rollup -c",
+    "build": "rollup -c && neu build",
     "dev": "rollup -c -w & neu run",
     "start": "sirv public --no-clear"
   },
