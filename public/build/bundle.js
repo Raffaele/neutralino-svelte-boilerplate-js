@@ -312,7 +312,7 @@ var app = (function () {
     	const block = {
     		c: function create() {
     			h1 = element("h1");
-    			h1.textContent = `Hello ${/*name*/ ctx[0]}!`;
+    			h1.textContent = `Hello ${/*name*/ ctx[0]} 2!`;
     			add_location(h1, file, 4, 0, 41);
     		},
     		l: function claim(nodes) {

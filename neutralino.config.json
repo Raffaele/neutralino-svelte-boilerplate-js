@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "defaultMode": "window",
   "port": 0,
-  "documentRoot": "/resources/",
+  "documentRoot": "/public/",
   "url": "/",
   "enableServer": true,
   "enableNativeAPI": true,
@@ -41,10 +41,10 @@
       "icon": "/resources/icons/appIcon.png",
       "enableInspector": true,
       "borderless": false,
-      "maximize": false,
+      "maximize": true,
       "hidden": false,
       "resizable": true,
-      "exitProcessOnClose": false
+      "exitProcessOnClose": true
     },
     "browser": {
       "globalVariables": {
@@ -72,9 +72,9 @@
   },
   "cli": {
     "binaryName": "neutralino-svelte-boilerplate-js",
-    "resourcesPath": "/resources/",
+    "resourcesPath": "/public/",
     "extensionsPath": "/extensions/",
-    "clientLibrary": "/resources/js/neutralino.js",
+    "clientLibrary": "/public/js/neutralino.js",
     "binaryVersion": "4.5.0",
     "clientVersion": "3.4.0"
   }
