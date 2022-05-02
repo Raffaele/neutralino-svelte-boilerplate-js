@@ -1,17 +1,41 @@
-# neutralinojs-minimal
+<h1 align="center"> NEUTRALINO + SVELTE BOILERPLATE </h1>
+<h2 align="center">
+  Create your cross platform desktop app with html/css/js and the best front-end framework
+</h2>
 
-The default template for a Neutralinojs app. It's possible to use your favorite frontend framework by using [these steps](https://neutralino.js.org/docs/how-to/use-a-frontend-library).
+Info on [Neutralino](https://github.com/neutralinojs/neutralinojs)
 
-## Contributors
+Info on [Svelte](https://svelte.dev/)
 
-<a href="https://github.com/neutralinojs/neutralinojs-minimal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=neutralinojs/neutralinojs-minimal" />
-</a>
+#### DEPENDENCIES:
 
-## License
+[Node](https://nodejs.org/)
 
-[MIT](LICENSE)
+[NeutralinoJS-cli](https://github.com/neutralinojs/neutralinojs-cli)
 
-## Icon credits
+#### SETUP:
 
-- `trayIcon.png` - Made by [Freepik](https://www.freepik.com) and downloaded from [Flaticon](https://www.flaticon.com)
+```
+git clone https://github.com/Raffaele/neutralino-svelte-boilerplate-js
+```
+
+#### DOWNLOAD DEPENDENCIES
+
+```
+yarn
+```
+
+#### START IN DEV MODE
+
+```
+yarn dev
+```
+
+#### BUILD
+
+```
+yarn build
+```
+
+### Do you like the project, will you [buy me a beer](https://www.buymeacoffee.com/raffaelemori)? :beer:
+

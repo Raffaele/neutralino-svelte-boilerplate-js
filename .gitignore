@@ -5,9 +5,12 @@
 /bin
 /dist
 
-# Neutralinojs client (minified)
-neutralino.js
-
 # Neutralinojs related files
 .storage
 *.log
+
+/node_modules/
+
+/public/build
+
+/.tmp
