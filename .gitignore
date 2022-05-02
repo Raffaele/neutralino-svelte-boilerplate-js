@@ -12,3 +12,5 @@
 /node_modules/
 
 /public/build
+
+/tmp
