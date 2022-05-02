@@ -4,7 +4,7 @@ function setTray() {
         return;
     }
     let tray = {
-        icon: "/resources/icons/trayIcon.png",
+        icon: "/public/icons/trayIcon.png",
         menuItems: [
             {id: "VERSION", text: "Get version"},
             {id: "SEP", text: "-"},
