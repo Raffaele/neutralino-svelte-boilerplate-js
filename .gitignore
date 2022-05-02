@@ -10,3 +10,5 @@
 *.log
 
 /node_modules/
+
+/public/build
