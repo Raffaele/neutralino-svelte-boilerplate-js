@@ -37,5 +37,5 @@ yarn dev
 yarn build
 ```
 
-### Do you like the project, will you [buy me a beer](https://www.buymeacoffee.com/raffaelemori)? :beer:
+### Do you like the project? Will you [buy me a beer](https://www.buymeacoffee.com/raffaelemori)? :beer:
 
